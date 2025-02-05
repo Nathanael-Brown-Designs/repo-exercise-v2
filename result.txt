@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the result file
+=======
+Success
+>>>>>>> 9fd159e4b45fcaf0479f0db6407facbc63c55849
